@@ -15,7 +15,7 @@ The goal is to understand whether changes in market sentiment are associated wit
 - Analyzed leverage usage and trading activity during Fear and Greed phases
 - Performed simple trader segmentation based on cumulative PnL
 
-The analysis is exploratory and focuses on understanding patterns rather than building predictive models.
+The analysis is exploratory, focusing on understanding patterns rather than building predictive models.
 
 ### Key Findings
 - Traders tend to use higher leverage during Greed periods
@@ -29,12 +29,14 @@ The analysis is exploratory and focuses on understanding patterns rather than bu
 - External market factors are not included
 
 ### Project Structure
+
+```
 trader-behavior-market-sentiment/
 │
 ├── Trader_Behavior_vs_Market_Sentiment_Analysis.ipynb
 ├── README.md
-└── data.zip # Contains historical_data.csv and fear_greed_index.csv
-
+└── data.zip   # Contains historical_data.csv and fear_greed_index.csv
+```
 
 ### How to Run
 1. Clone or download the repository  
