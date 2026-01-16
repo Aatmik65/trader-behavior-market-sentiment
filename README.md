@@ -33,7 +33,8 @@ trader-behavior-market-sentiment/
 │
 ├── Trader_Behavior_vs_Market_Sentiment_Analysis.ipynb
 ├── README.md
-├── data.zip   # Contains historical_data.csv and fear_greed_index.csv
+└── data.zip # Contains historical_data.csv and fear_greed_index.csv
+
 
 ### How to Run
 1. Clone or download the repository  
